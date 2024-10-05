@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Gokulakrishnan S</h2>
-<h3 align="center">Aspring talent in full-stack development</h3>
+<h3 align="left">Aspring talent in full-stack development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulakrishnansivalingam&label=Profile%20views&color=0e75b6&style=flat" alt="gokulakrishnansivalingam" /> </p>
 
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gokulakrishnansivalingam&show_icons=true&locale=en&layout=compact" alt="gokulakrishnansivalingam" /></p>
 
-<p>&nbsp;<img align="center" style ={marginTop="20px"} src="https://github-readme-stats.vercel.app/api?username=gokulakrishnansivalingam&show_icons=true&locale=en" alt="gokulakrishnansivalingam" /></p>
+<p>&nbsp;<img align="center" style ={margin-top="20px"} src="https://github-readme-stats.vercel.app/api?username=gokulakrishnansivalingam&show_icons=true&locale=en" alt="gokulakrishnansivalingam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulakrishnansivalingam&" alt="gokulakrishnansivalingam" /></p>
