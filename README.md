@@ -23,7 +23,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GokulakrishnanSivalingam&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulakrishnanSivalingam&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### My Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GokulakrishnanSivalingam&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GokulakrishnanSivalingam&theme=radical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GokulakrishnanSivalingam&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ### ✍️ Random Dev Quote
