@@ -1,7 +1,10 @@
 
-# 💫 About Me:
- <h2 align="left">Hi 👋, I'm Gokulakrishnan S</h2>
-<h3 align="left">Aspring talent in full-stack development</h3>
+## 💫 About Me:
+ <h2 align="left">Hello < Developers >👋, I'm Gokulakrishnan S</h2> 
+<h3 align="left">Aspring talent in full-stack web development and App development </h3><p>I am currently studying Computer science and engineering in Velammal Enginnering College, 
+ at chennai 
+ My area of interest in Software Development
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=GokulakrishnanSivalingam&icon=0&color=0)](https://visitcount.itsvg.in)
 
