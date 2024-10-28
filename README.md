@@ -1,7 +1,7 @@
 
 ## 💫 About Me:
  <h2 align="left">Hello < Developers >👋, I'm Gokulakrishnan S</h2> 
-<h3 align="left">Aspring talent in full-stack web development and App development </h3><p>I am currently studying Computer science and engineering in Velammal Enginnering College, 
+<h4 align="left">Aspring talent in full-stack web development and App development </h4><p>I am currently studying Computer science and engineering in Velammal Enginnering College, 
  at chennai 
  My area of interest in Software Development
 </p>
