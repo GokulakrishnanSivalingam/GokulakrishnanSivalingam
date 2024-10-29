@@ -5,7 +5,7 @@
  at chennai 
  My area of interest in Software Development
 </p>
-<img src="https://i.pinimg.com/originals/a8/95/d1/a895d143497deab9f5b94834a7d9550a.gif" alt="Example Image" align="center" style="width: 550px; height: 300px; border-radius:10px;">
+<img src="https://i.pinimg.com/originals/a8/95/d1/a895d143497deab9f5b94834a7d9550a.gif" alt="Example Image" align="center" style="width:max-content; height: 400px; border-radius:10px;">
 
   
 [![](https://visitcount.itsvg.in/api?id=GokulakrishnanSivalingam&icon=0&color=0)](https://visitcount.itsvg.in)
