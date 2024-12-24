@@ -1,6 +1,6 @@
 
 
- <h1 align="center">Hello < Developers >👋, I'm Gokulakrishnan S</h1> <br>
+ <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=80&color=F711A5&duration=2000&lines=Hi+There!+👋;+I'm+Gokulakrishnan!;" /></h1> <br>
 
   
 <h3 align="left">Aspring talent in full-stack web development and App development </h3><p>I am currently studying Computer science and engineering in Velammal Enginnering College, 
@@ -32,9 +32,11 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GokulakrishnanSivalingam&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GokulakrishnanSivalingam&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulakrishnanSivalingam&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+ 
+![](https://github-readme-stats.vercel.app/api?username=GokulakrishnanSivalingam&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br> <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GokulakrishnanSivalingam&theme=radical&hide_border=false) <br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulakrishnanSivalingam&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</div>
 
 ---
 
@@ -42,6 +44,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GokulakrishnanSivalingam&theme=radical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GokulakrishnanSivalingam&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
