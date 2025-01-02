@@ -14,7 +14,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [my portpolio](http://gokuls.vercel.app)
+- 👨‍💻 All of my projects are available at [my portfolio](http://gokuls.vercel.app)
 
 - 📫 How to reach me *sivalingamgokulakrishnan@gmail.com*
 
