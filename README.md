@@ -1,6 +1,6 @@
 
 
- <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=500&height=80&color=F711A5&duration=2000&lines=Hi+There!+👋;+I'm+Gokulakrishnan  !" /></h1> <br>
+ <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/font=Righteous&size=38&center=true&vCenter=true&width=500&height=80&color=F711A5&duration=2000&lines=Hi+There!+👋;+I'm+Gokulakrishnan!" /></h1> <br>
 
   
 <h3 align="left">Aspring talent in full-stack web development and App development </h3><p>I am currently studying Computer science and engineering in Velammal Enginnering College, 
