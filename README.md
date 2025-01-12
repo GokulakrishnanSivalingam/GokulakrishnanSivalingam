@@ -1,8 +1,4 @@
-
-
- <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/font=Righteous&size=38&center=true&vCenter=true&width=500&height=80&color=F711A5&duration=2000&lines=Hi+There!+👋;+I'm+Gokulakrishnan!" /></h1> <br>
-
-  
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/font=Righteous&size=38&center=true&vCenter=true&width=500&height=80&color=F711A5&duration=2000&lines=Hi+There!+👋;+I'm+Gokulakrishnan!" /></h1> <br>
 <h3 align="left">Aspring talent in full-stack web development and App development </h3><p>I am currently studying Computer science and engineering in Velammal Enginnering College, 
  at chennai 
  My area of interest in Software Development
@@ -11,14 +7,9 @@
 
   
 [![](https://visitcount.itsvg.in/api?id=GokulakrishnanSivalingam&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 - 👨‍💻 All of my projects are available at [my portfolio](http://gokuls.vercel.app)
 
 - 📫 How to reach me *sivalingamgokulakrishnan@gmail.com*
-
-
 ---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__gokul__bala__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulakrishnan-s-01890b312/)
