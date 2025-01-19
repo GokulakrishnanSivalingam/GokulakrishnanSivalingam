@@ -1,4 +1,5 @@
-<h1 align="center">Hi There ,I`m Gokulakrishnan </h1> <br>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70AEA&width=435&lines=Hello+%2CI+am+Gokulakrishnan" alt="Typing SVG" /></a>
+</h1> <br>
 <h3 align="left">Aspring talent in full-stack web development and App development </h3><p>I am currently studying Computer science and engineering in Velammal Enginnering College, 
  at chennai 
  My area of interest in Software Development
