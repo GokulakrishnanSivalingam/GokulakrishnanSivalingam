@@ -1,13 +1,8 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70AEA&width=435&lines=Hello+%2CI+am+Gokulakrishnan" alt="Typing SVG" /></a>
 </h1> <br>
-<h3 align="left">Aspring talent in full-stack web development and App development </h3><p>I am currently studying Computer science and engineering in Velammal Enginnering College, 
- at chennai 
- My area of interest in Software Development
-</p>
-<center><img align-item="center" width="100%" src="https://i.pinimg.com/originals/a8/95/d1/a895d143497deab9f5b94834a7d9550a.gif" alt="Example Image" align="center" style="width:max-content; height: 300px; border-radius:10px;"></center>
+<h3 align="left">Aspiring Talent in Full-Stack Web and App Development</h3>
+<p>I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering at Velammal Engineering College, Chennai. My primary areas of interest include Software Development, UI/UX Design, and App Development using Java as the programming language.</p>
 
-  
-[![](https://visitcount.itsvg.in/api?id=GokulakrishnanSivalingam&icon=0&color=0)](https://visitcount.itsvg.in)
 - 👨‍💻 All of my projects are available at [my portfolio](http://gokuls.vercel.app)
 
 - 📫 How to reach me *sivalingamgokulakrishnan@gmail.com*
@@ -35,16 +30,3 @@
 ### My Activity
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GokulakrishnanSivalingam&theme=radical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GokulakrishnanSivalingam&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
----
