@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F70AEA&width=435&lines=Hello+%2CI+am+Gokulakrishnan" alt="Typing SVG" /></a>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00&width=435&lines=Hello+%2CI+am+Gokulakrishnan" alt="Typing SVG" /></a>
 </h1> <br>
 <h3 align="left">Aspiring Talent in Full-Stack Web and App Development</h3>
 <p>I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering at Velammal Engineering College, Chennai. My primary areas of interest include Software Development, UI/UX Design, and App Development using Java as the programming language.</p>
@@ -19,14 +19,26 @@
 
 
 ## 📊 GitHub Stats:
-<div align="center">
+<div align="left">
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GokulakrishnanSivalingam&theme=apprentice)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GokulakrishnanSivalingam&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GokulakrishnanSivalingam&theme=apprentice)<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GokulakrishnanSivalingam&theme=apprentice&utcOffset=8)<br></div>
+</div>
+
+---
+## 📊 Leetcode Stats:
+<div align="left">
+ 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Gokula_krishnan_007?theme=dark&font=Roboto&ext=heatmap)
+
+</div>
 
 ---
 
 ### My Activity
+<div align="center">
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GokulakrishnanSivalingam&theme=apprentice)
+
+</div>
 
