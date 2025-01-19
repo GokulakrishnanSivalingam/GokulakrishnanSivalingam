@@ -21,12 +21,12 @@
 ## 📊 GitHub Stats:
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api?username=GokulakrishnanSivalingam&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br> <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GokulakrishnanSivalingam&theme=radical&hide_border=false) <br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GokulakrishnanSivalingam&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GokulakrishnanSivalingam&theme=apprentice)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GokulakrishnanSivalingam&theme=apprentice)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GokulakrishnanSivalingam&theme=apprentice&utcOffset=8)<br></div>
 
 ---
 
 ### My Activity
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GokulakrishnanSivalingam&theme=radical&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GokulakrishnanSivalingam&theme=apprentice)
 
