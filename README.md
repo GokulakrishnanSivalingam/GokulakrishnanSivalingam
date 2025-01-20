@@ -3,7 +3,7 @@
 <h3 align="left">Aspiring Talent in Full-Stack Web and App Development</h3>
 <p>I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering at Velammal Engineering College, Chennai. My primary areas of interest include Software Development, UI/UX Design, and App Development using Java as the programming language.</p>
 
-- 👨‍💻 All of my projects are available at [my portfolio](www.gokulakrishnan.online)
+- 👨‍💻 All of my projects are available at [my portfolio](https://www.gokulakrishnan.online)
 
 - 📫 How to reach me *sivalingamgokulakrishnan@gmail.com*
 
