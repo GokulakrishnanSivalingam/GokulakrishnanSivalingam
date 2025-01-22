@@ -41,5 +41,7 @@
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GokulakrishnanSivalingam&theme=apprentice)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GokulakrishnanSivalingam&bg_color=3d3d3d&color=ffff00&line=ffff00&point=d76b47&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
