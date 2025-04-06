@@ -43,7 +43,7 @@
 </div>
 
 ## 📊 Leetcode Stats:
-<div align="left">
+<div align="center">
  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Gokula_krishnan_007?theme=dark&font=Roboto&ext=heatmap)
 
