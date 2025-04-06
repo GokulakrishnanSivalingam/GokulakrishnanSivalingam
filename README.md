@@ -1,8 +1,22 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00&width=435&lines=Hello+%2CI+am+Gokulakrishnan" alt="Typing SVG" /></a>
 </h1> <br>
-<h3 align="left">Aspiring Talent in Full-Stack Web and App Development</h3>
-<p>I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering at Velammal Engineering College, Chennai. My primary areas of interest include Software Development, UI/UX Design, and App Development using Java as the programming language.</p>
+<h2 align="left">Aspiring Talent in Full-Stack Web and App Development</h2>
 
+  ```bash
+
+🎓 I am currently pursuing a Bachelor of Engineering 
+   in Computer Science and Engineering 
+   at Velammal Engineering College, Chennai.
+
+🧠 My Primary Areas of Interest
+    🌐 Web Development
+    🎨 UI/UX Design
+    📱 App Development
+
+🚀 I'm always looking to learn, build, and create cool things!
+🤝 Let's connect and innovate together!
+
+````
 - 👨‍💻 All of my projects are available at [my portfolio](https://www.gokulakrishnan.online)
 
 - 📫 How to reach me *sivalingamgokulakrishnan@gmail.com*
