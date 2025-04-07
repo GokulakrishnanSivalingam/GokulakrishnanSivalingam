@@ -1,6 +1,5 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00&width=435&lines=Hello+%2CI+am+Gokulakrishnan" alt="Typing SVG" /></a>
-</h1> <br>
-<h2 align="left">Aspiring Talent in Full-Stack Web and App Development</h2>
+</h1> 
 
   ```bash
 
