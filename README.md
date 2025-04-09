@@ -39,7 +39,7 @@
 
 
 <div align="center">
-<img src="https://ghchart.rshah.org/FFFF00/GokulakrishnanSivalingam"  alt="GitHub Contribution Chart" />
+<img src="https://ghchart.rshah.org/GokulakrishnanSivalingam"  alt="GitHub Contribution Chart" />
 </div>  
 <br>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
