@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00&width=435&lines=Hello+%2CI+am+Gokulakrishnan" alt="Typing SVG" /></a>
+<h1 align=""><img src="Gokulakrishnan.png" alt="Typing SVG" /></a>
 </h1> 
 
   ```bash
