@@ -1,7 +1,7 @@
-<h1 align=""><img src="Gokulakrishnan.png" alt="Typing SVG" /></a>
-  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00&width=435&lines=Hello I am Gokulakrishnan" alt="Typing SVG" /></a>
+<h1 align=""><img src="Gokulakrishnan.png" alt="Typing SVG" /></a></h1> 
+  <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00&width=435&lines=Hello,+I+am+Gokulakrishnan" alt="Typing SVG" /></a>
 </h1>
-</h1> 
+
 <h2>About me</h2>
 <p>
   I'm a Bachelor of Engineering student specializing in Computer Science and Engineering at Velammal Engineering College, Chennai. Passionate about technology, my core interests lie in Web Development, UI/UX Design, and App Development. I'm constantly driven by curiosity and the urge to learn, build, and create impactful digital experiences. Let's connect, collaborate, and innovate together!</p>
