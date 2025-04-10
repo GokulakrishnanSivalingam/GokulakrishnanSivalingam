@@ -9,7 +9,7 @@
     
   <div align="center">
     
-[![Check out Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Check out Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](www.gokulakrishnan.online)
 [![Mail Me](https://img.shields.io/badge/Mail_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivalingamgokulakrishnan@gmail.com)
 [![Visit LinkedIn](https://img.shields.io/badge/Connect_with_me-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulakrishnan-s-01890b312/)
 
