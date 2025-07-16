@@ -41,7 +41,10 @@
 <div align="center">
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GokulakrishnanSivalingam&bg_color=3d3d3d&color=ffff00&line=ffff00&point=d76b47&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+<br>
+<div style="text-align: center;">
+  <img src="https://ghchart.rshah.org/GokulakrishnanSivalingam" alt="GitHub Contributions" />
+</div>
 <br>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFF00&width=435&lines=Thanks+for+visiting" alt="Typing SVG" /></a>
 </h1>
