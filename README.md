@@ -26,9 +26,10 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=GokulakrishnanSivalingam&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br>
 
-  <img src="https://leetcard.jacoblin.cool/Gokula_krishnan_007?theme=dark&font=Roboto" alt="LeetCode Stats" /><br>
+
  <!-- GitHub Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GokulakrishnanSivalingam&theme=dark" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GokulakrishnanSivalingam&theme=dark" alt="GitHub Streak" /><br><br>
+  <img src="https://leetcard.jacoblin.cool/Gokula_krishnan_007?theme=dark&font=Roboto" alt="LeetCode Stats" />
 
 
 
