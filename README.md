@@ -24,7 +24,6 @@
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=GokulakrishnanSivalingam&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br>
 
 
  <!-- GitHub Streak Stats -->
